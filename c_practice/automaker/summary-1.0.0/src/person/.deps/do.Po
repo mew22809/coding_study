@@ -1,0 +1,5 @@
+do.o: do.c do.h ../lib/lib.h
+
+do.h:
+
+../lib/lib.h:
